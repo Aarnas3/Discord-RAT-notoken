@@ -25,13 +25,13 @@ To run this program, the channel the bot uses needs to be defined and the bot ne
 (I've removed both the channelId and bot token from this source code)
 
 ## Screenshots
-**Device Connected**
-![Screenshot](Images/connected.png)
-**Device Screenshot**
-![Screenshot](Images/screenshot.png)
-**Device CMD**
-![Screenshot](Images/cmd.png)
-**Device Click**
-![Screenshot](Images/click.png)
-**Device Camera**
-![Screenshot](Images/camera.png)
+**Device Connected**<br>
+![Screenshot](Images/connected.png)<br>
+**Device Screenshot**<br>
+![Screenshot](Images/screenshot.png)<br>
+**Device CMD**<br>
+![Screenshot](Images/cmd.png)<br>
+**Device Click**<br>
+![Screenshot](Images/click.png)<br>
+**Device Camera**<br>
+![Screenshot](Images/camera.png)<br>
