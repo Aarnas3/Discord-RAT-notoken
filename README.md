@@ -19,12 +19,19 @@ This is a RAT programmed entirely in python, which is controlled through a chose
 - "startup $path$" adds given path to startup
 
 ## How To Use
+**DO NOT RUN THIS PROGRAM ON ANY DEVICE WITHOUT PERMISSION**
 It's not recommended to run this program on any devices.
 To run this program, the channel the bot uses needs to be defined and the bot needs to be initialised with its own token.
 (I've removed both the channelId and bot token from this source code)
 
+## Screenshots
+**Device Connected**
 ![Screenshot](Images/connected.png)
+**Device Screenshot**
 ![Screenshot](Images/screenshot.png)
+**Device CMD**
 ![Screenshot](Images/cmd.png)
+**Device Click**
 ![Screenshot](Images/click.png)
+**Device Camera**
 ![Screenshot](Images/camera.png)
